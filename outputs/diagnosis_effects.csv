@@ -1,0 +1,11 @@
+scenario,window,franchise_n,standalone_n,franchise_multiple,standalone_multiple,multiple_gap,franchise_rating,standalone_rating,rating_gap,multiple_leader,rating_leader,multiple_gap_95_low,multiple_gap_95_high,multiple_share_resamples_franchise_ahead,rating_gap_95_low,rating_gap_95_high,rating_share_resamples_franchise_ahead
+baseline,all_years,87,25,5.526393377777778,5.0,0.5263933777777776,7.491,8.212,-0.7210000000000001,franchise,standalone,-6.285937757575758,3.0766299066666667,0.8156,-0.9869999999999992,-0.42799999999999994,0.0
+baseline,2000_onward,59,12,5.05193866875,4.488006119191919,0.5639325495580811,7.393,8.1445,-0.751500000000001,franchise,standalone,-0.5826286922077921,2.434721735,0.8213,-0.9580000000000002,-0.3389500000000003,0.0002
+duplicates left in,all_years,91,28,5.526393377777778,4.762444563636364,0.7639488141414139,7.58,8.298,-0.718,franchise,standalone,,,,,,
+duplicates left in,2000_onward,61,12,5.071982033333334,4.488006119191919,0.5839759141414147,7.45,8.1445,-0.6945000000000006,franchise,standalone,,,,,,
+franchise = any series (TMDb flag),all_years,96,16,5.623799132638888,3.8448115555555558,1.7789875770833325,7.6015,8.4445,-0.843,franchise,standalone,,,,,,
+franchise = any series (TMDb flag),2000_onward,63,8,5.05193866875,3.8448115555555558,1.2071271131944443,7.45,8.1935,-0.7435,franchise,standalone,,,,,,
+averages instead of medians,all_years,87,25,7.935728121036501,10.47989252093366,-2.5441643998971593,7.439517241379311,8.10384,-0.6643227586206892,standalone,standalone,,,,,,
+averages instead of medians,2000_onward,59,12,5.447169815016889,4.893561968944378,0.5536078460725111,7.332983050847458,7.923166666666667,-0.5901836158192086,franchise,standalone,,,,,,
+bundles include their off-list films,all_years,107,25,5.076609558823529,5.0,0.07660955882352916,7.389,8.212,-0.8229999999999995,franchise,standalone,,,,,,
+bundles include their off-list films,2000_onward,79,12,4.592129844,4.488006119191919,0.10412372480808063,7.278,8.1445,-0.8665000000000012,franchise,standalone,,,,,,

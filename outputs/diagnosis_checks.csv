@@ -1,0 +1,26 @@
+check,count,detail
+input rows,127,
+rows with fate: fetched,112,
+rows with fate: duplicate,7,
+rows with fate: not_found_on_tmdb,5,
+rows with fate: non_positive,1,
+rows with fate: blank,1,
+rows with fate: not_an_id,1,
+films listed more than once,6,"The Matrix, The Shawshank Redemption, The Empire Strikes Back, The Dark Knight, Fight Club, Pulp Fiction"
+ids written in another site's format (IMDb),1,tt0468569
+"films on list with budget or revenue not credible (< $10,000)",0,
+off-list franchise films with budget or revenue not credible,3,"The Lion King II: Simba's Pride, The Lion King 1½, The Ice Age Adventures of Buck Wild"
+films on list that lost money (multiple < 1),0,lowest multiple on list: 1.13 (The Shawshank Redemption)
+lowest audience rating on list,0,5.75 (The Smurfs)
+revenue is an exact round million (likely an estimate),4,"Terminator 3: Rise of the Machines, Monsters, Inc., Star Wars: Episode III - Revenge of the Sith, Alien Resurrection"
+films in a series but the only one of it on the list,9,"Blade Runner, The Silence of the Lambs, Jaws, Monsters, Inc., Ghostbusters, The Lion King, The Incredibles, The Smurfs, Mad Max: Fury Road"
+bundles on the list,23,
+bundles missing released films,10,"Die Hard 4/5, Ice Age 3/6, Indiana Jones 4/5, Jurassic Park 3/7, Mission: Impossible 5/8, Star Wars 6/9, The Bourne 3/5, The Matrix 3/4, The Terminator 4/6, Toy Story 4/5"
+franchise films released before 2000,28,
+standalone films released before 2000,13,
+standalone films from 2000 onward (sample size),12,
+films with more than one director,9,
+people with 3+ films on the list,57,
+...of whom every film is in the same franchise,39,"George Lucas, Mark Hamill, Carrie Fisher, Bruce Willis, Johnny Depp, Mark Ruffalo, Elijah Wood, Viggo Mortensen, Orlando Bloom, Geoffrey Rush, Tom Cruise, Michael J. Fox, Natalie Portman, Eddie Murphy, Christopher Lloyd, Arnold Schwarzenegger, George Clooney, Gore Verbinski, Francis Ford Coppola, Steven Soderbergh, Laurence Fishburne, Ewan McGregor, John Leguizamo, Denis Leary, Keanu Reeves, Cameron Diaz, Martin Freeman, Lilly Wachowski, Lana Wachowski, Sigourney Weaver, Daniel Radcliffe, Rupert Grint, Emma Watson, David Yates, Mike Myers, Tim Allen, Ray Romano, Chris Evans, Richard Armitage"
+"vote count, smallest on list",4137,
+data snapshot taken (UTC),0,2026-11-19T12:31:44+00:00 to 2026-11-19T12:32:39+00:00

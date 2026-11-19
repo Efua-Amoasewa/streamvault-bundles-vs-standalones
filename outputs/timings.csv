@@ -1,0 +1,7 @@
+stage,seconds
+1 acquire (fetch or reuse saved replies),0.22178509994409978
+2 flatten JSON into tables + join checks,0.462619400001131
+3 diagnosis checks and effects,0.18093169992789626
+"4 analysis, both windows",0.20979800005443394
+5 save outputs,0.02207150007598102
+TOTAL,1.097205700003542

@@ -1,0 +1,40 @@
+tmdb_id,title,release_date,status,budget,revenue,runtime,vote_average,vote_count,original_language,collection_id,collection_name,genres,fetched_at,year
+579,Jaws 2,1978-06-16,Released,20000000.0,187884000.0,117,6.0,2224,en,2366,Jaws Collection,Horror|Thriller,2026-11-19T12:55:03+00:00,1978
+580,Jaws: The Revenge,1987-07-17,Released,23000000.0,51881012.0,89,4.092,1233,en,2366,Jaws Collection,Adventure|Thriller|Horror,2026-11-19T12:55:03+00:00,1987
+2978,Ghostbusters II,1989-06-16,Released,37000000.0,215394738.0,108,6.605,5099,en,2980,Ghostbusters Collection,Comedy|Fantasy,2026-11-19T12:55:03+00:00,1989
+8810,Mad Max 2,1981-12-24,Released,2000000.0,24600832.0,96,7.394,4413,en,8945,Mad Max Collection,Action|Thriller|Science Fiction,2026-11-19T12:55:03+00:00,1981
+9355,Mad Max Beyond Thunderdome,1985-06-29,Released,10000000.0,36230219.0,107,6.22,3459,en,8945,Mad Max Collection,Action|Adventure|Science Fiction,2026-11-19T12:55:04+00:00,1985
+9533,Red Dragon,2002-10-02,Released,78000000.0,209196298.0,124,7.052,4966,en,9743,The Hannibal Lecter Collection,Crime|Thriller|Horror,2026-11-19T12:55:04+00:00,2002
+9659,Mad Max,1979-04-12,Released,350000.0,100000000.0,91,6.684,5214,en,8945,Mad Max Collection,Action|Thriller|Science Fiction,2026-11-19T12:55:04+00:00,1979
+9732,The Lion King II: Simba's Pride,1998-10-24,Released,0.0,0.0,81,6.938,4809,en,94032,The Lion King Collection,Adventure|Animation|Drama|Family|Romance,2026-11-19T12:55:04+00:00,1998
+9740,Hannibal,2001-02-08,Released,87000000.0,351692268.0,131,6.779,5440,en,9743,The Hannibal Lecter Collection,Crime|Drama|Thriller,2026-11-19T12:55:04+00:00,2001
+11430,The Lion King 1½,2004-10-28,Released,0.0,1465.0,77,6.59,3253,en,94032,The Lion King Collection,Adventure|Animation|Comedy|Family,2026-11-19T12:55:05+00:00,2004
+17692,Jaws 3-D,1983-07-22,Released,20500000.0,87987056.0,99,4.5,1478,en,2366,Jaws Collection,Thriller|Horror,2026-11-19T12:55:05+00:00,1983
+47964,A Good Day to Die Hard,2013-02-06,Released,92000000.0,304654182.0,98,5.32,6946,en,1570,Die Hard Collection,Action|Thriller,2026-11-19T12:55:05+00:00,2013
+49040,The Bourne Legacy,2012-08-08,Released,130000000.0,276600000.0,135,6.255,6376,en,31562,The Bourne Collection,Action|Thriller,2026-11-19T12:55:05+00:00,2012
+57800,Ice Age: Continental Drift,2012-06-27,Released,95000000.0,877244782.0,88,6.396,8384,en,8354,Ice Age Collection,Animation|Comedy|Adventure|Family,2026-11-19T12:55:05+00:00,2012
+62211,Monsters University,2013-06-19,Released,200000000.0,743559465.0,104,7.06,11678,en,137696,"Monsters, Inc. Collection",Animation|Family|Comedy|Fantasy,2026-11-19T12:55:06+00:00,2013
+77931,The Smurfs 2,2013-07-30,Released,105000000.0,347434178.0,105,5.748,2441,en,134897,The Smurfs (Theatrical) Collection,Fantasy|Family|Comedy|Animation,2026-11-19T12:55:06+00:00,2013
+87101,Terminator Genisys,2015-06-23,Released,155000000.0,440603537.0,126,5.964,9310,en,528,The Terminator Collection,Science Fiction|Action|Thriller,2026-11-19T12:55:06+00:00,2015
+135397,Jurassic World,2015-06-06,Released,150000000.0,1671537444.0,124,6.7,22125,en,328,Jurassic Park Collection,Adventure|Science Fiction|Thriller|Action,2026-11-19T12:55:06+00:00,2015
+140607,Star Wars: The Force Awakens,2015-12-15,Released,245000000.0,2068223624.0,136,7.237,21148,en,10,Star Wars Collection,Adventure|Action|Science Fiction,2026-11-19T12:55:06+00:00,2015
+181808,Star Wars: The Last Jedi,2017-12-13,Released,300000000.0,1334407706.0,152,6.727,16891,en,10,Star Wars Collection,Adventure|Action|Science Fiction,2026-11-19T12:55:07+00:00,2017
+181812,Star Wars: The Rise of Skywalker,2019-12-18,Released,489900000.0,1074144248.0,142,6.236,11341,en,10,Star Wars Collection,Adventure|Action|Science Fiction,2026-11-19T12:55:07+00:00,2019
+260513,Incredibles 2,2018-06-14,Released,200000000.0,1243225667.0,118,7.451,14100,en,468222,The Incredibles Collection,Action|Adventure|Animation|Family,2026-11-19T12:55:07+00:00,2018
+278154,Ice Age: Collision Course,2016-06-23,Released,105000000.0,408579038.0,95,6.119,5044,en,8354,Ice Age Collection,Adventure|Animation|Family|Comedy|Science Fiction,2026-11-19T12:55:07+00:00,2016
+290859,Terminator: Dark Fate,2019-10-23,Released,185000000.0,261119292.0,128,6.411,5979,en,528,The Terminator Collection,Science Fiction|Action|Adventure|Thriller,2026-11-19T12:55:07+00:00,2019
+324668,Jason Bourne,2016-07-27,Released,120000000.0,415484914.0,123,6.389,6481,en,31562,The Bourne Collection,Action|Adventure|Thriller,2026-11-19T12:55:08+00:00,2016
+335977,Indiana Jones and the Dial of Destiny,2023-06-25,Released,294700000.0,383963057.0,155,6.487,4496,en,84,Indiana Jones Collection,Adventure|Action,2026-11-19T12:55:08+00:00,2023
+335984,Blade Runner 2049,2017-10-04,Released,150000000.0,259239658.0,164,7.615,16048,en,422837,Blade Runner Collection,Science Fiction|Drama,2026-11-19T12:55:08+00:00,2017
+351286,Jurassic World: Fallen Kingdom,2018-06-06,Released,170000000.0,1310469037.0,129,6.518,13172,en,328,Jurassic Park Collection,Adventure|Science Fiction|Thriller,2026-11-19T12:55:08+00:00,2018
+353081,Mission: Impossible - Fallout,2018-07-25,Released,178000000.0,824171374.0,147,7.454,9570,en,87359,Mission: Impossible Collection,Action|Adventure,2026-11-19T12:55:08+00:00,2018
+425909,Ghostbusters: Afterlife,2021-11-18,Released,75000000.0,204445747.0,124,7.289,5448,en,2980,Ghostbusters Collection,Fantasy|Comedy|Adventure,2026-11-19T12:55:09+00:00,2021
+507086,Jurassic World Dominion,2022-06-01,Released,658800000.0,1004004592.0,147,6.572,7413,en,328,Jurassic Park Collection,Adventure|Science Fiction|Thriller,2026-11-19T12:55:09+00:00,2022
+575264,Mission: Impossible - Dead Reckoning Part One,2023-07-08,Released,220000000.0,571125435.0,164,7.502,5532,en,87359,Mission: Impossible Collection,Action|Adventure|Thriller,2026-11-19T12:55:09+00:00,2023
+575265,Mission: Impossible - The Final Reckoning,2025-05-17,Released,400000000.0,598767057.0,170,7.169,3344,en,87359,Mission: Impossible Collection,Action|Thriller|Adventure,2026-11-19T12:55:09+00:00,2025
+624860,The Matrix Resurrections,2021-12-16,Released,190000000.0,156497322.0,148,6.296,6880,en,2344,The Matrix Collection,Science Fiction|Action|Adventure,2026-11-19T12:55:10+00:00,2021
+774825,The Ice Age Adventures of Buck Wild,2022-01-28,Released,0.0,0.0,82,6.533,1897,en,8354,Ice Age Collection,Animation|Comedy|Family|Adventure,2026-11-19T12:55:10+00:00,2022
+786892,Furiosa: A Mad Max Saga,2024-05-22,Released,168000000.0,174287546.0,149,7.439,5400,en,8945,Mad Max Collection,Action|Science Fiction|Adventure,2026-11-19T12:55:10+00:00,2024
+967847,Ghostbusters: Frozen Empire,2024-03-20,Released,100000000.0,201967521.0,115,6.406,2386,en,2980,Ghostbusters Collection,Fantasy|Adventure|Comedy,2026-11-19T12:55:10+00:00,2024
+1084244,Toy Story 5,2026-06-17,Released,250000000.0,1148032461.0,102,8.245,2900,en,10194,Toy Story Collection,Animation|Family|Comedy|Adventure,2026-11-19T12:55:10+00:00,2026
+1234821,Jurassic World Rebirth,2025-06-23,Released,180000000.0,869146189.0,134,6.237,3960,en,328,Jurassic Park Collection,Science Fiction|Adventure|Action,2026-11-19T12:55:11+00:00,2025

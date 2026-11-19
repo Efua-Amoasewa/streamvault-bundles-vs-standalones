@@ -1,0 +1,29 @@
+role,person_id,person_name,separate_results,films,average_score,worst_result,hit_rate,titles,lift_vs_typical,evidence
+director,24,Robert Zemeckis,2,4,75.1984126984127,60.66468253968254,1.0,Back to the Future; Forrest Gump,25.496031746031747,thin (2 results)
+director,138,Quentin Tarantino,2,3,75.1860119047619,57.06845238095238,1.0,Kill Bill: Vol. 1; Pulp Fiction,25.48363095238095,thin (2 results)
+director,525,Christopher Nolan,5,7,64.09722222222221,50.44642857142856,1.0,The Dark Knight; The Prestige; Interstellar; Inception,14.394841269841265,moderate
+director,108,Peter Jackson,2,6,62.42559523809524,38.839285714285715,0.5,The Lord of the Rings: The Fellowship of the Ring; The Hobbit: An Unexpected Journey,12.723214285714292,thin (2 results)
+director,488,Steven Spielberg,4,8,60.04464285714286,45.83333333333333,0.75,Jaws; Jurassic Park; Raiders of the Lost Ark; Schindler's List,10.342261904761912,moderate
+director,2710,James Cameron,2,3,57.92410714285714,57.51488095238095,1.0,The Terminator; Aliens,8.22172619047619,thin (2 results)
+director,578,Ridley Scott,2,2,54.01785714285714,38.24404761904761,0.5,Blade Runner; Alien,4.31547619047619,thin (2 results)
+director,1032,Martin Scorsese,2,2,47.395833333333336,45.833333333333336,0.0,The Departed; GoodFellas,-2.3065476190476133,thin (2 results)
+director,7087,Brad Bird,2,2,44.94047619047619,30.208333333333332,0.5,The Incredibles; Mission: Impossible - Ghost Protocol,-4.761904761904759,thin (2 results)
+director,1150,Brian De Palma,2,2,36.30952380952381,32.589285714285715,0.0,Mission: Impossible; Scarface,-13.392857142857139,thin (2 results)
+director,7467,David Fincher,2,2,35.56547619047619,9.375,0.5,Alien³; Fight Club,-14.13690476190476,thin (2 results)
+lead_actor,139,Uma Thurman,2,3,75.1860119047619,57.06845238095238,1.0,Kill Bill: Vol. 1; Pulp Fiction,25.48363095238095,thin (2 results)
+lead_actor,31,Tom Hanks,2,5,71.93080357142857,54.129464285714285,1.0,Toy Story; Forrest Gump,22.22842261904762,thin (2 results)
+lead_actor,6193,Leonardo DiCaprio,2,2,62.94642857142857,48.958333333333336,0.5,The Departed; Inception,13.24404761904762,thin (2 results)
+lead_actor,1327,Ian McKellen,2,6,62.42559523809524,38.839285714285715,0.5,The Lord of the Rings: The Fellowship of the Ring; The Hobbit: An Unexpected Journey,12.723214285714292,thin (2 results)
+lead_actor,3223,Robert Downey Jr.,2,7,61.25992063492063,48.85912698412699,0.5,Iron Man; The Avengers,11.557539682539684,thin (2 results)
+lead_actor,2712,Michael Biehn,2,2,58.92857142857143,58.333333333333336,1.0,The Terminator; Aliens,9.226190476190482,thin (2 results)
+lead_actor,3896,Liam Neeson,3,3,58.1845238095238,46.279761904761905,0.3333333333333333,Star Wars: Episode I - The Phantom Menace; Batman Begins; Schindler's List,8.482142857142854,moderate
+lead_actor,3895,Michael Caine,3,3,57.688492063492056,46.279761904761905,0.6666666666666666,Batman Begins; The Prestige; Interstellar,7.986111111111107,moderate
+lead_actor,2231,Samuel L. Jackson,2,2,57.142857142857146,20.982142857142858,0.5,Die Hard: With a Vengeance; Pulp Fiction,7.440476190476197,thin (2 results)
+lead_actor,3,Harrison Ford,3,8,54.36507936507936,38.24404761904761,0.3333333333333333,Star Wars; Blade Runner; Raiders of the Lost Ark,4.662698412698411,moderate
+lead_actor,2524,Tom Hardy,2,2,51.63690476190476,45.38690476190476,0.5,The Dark Knight Rises; Mad Max: Fury Road,1.9345238095238102,thin (2 results)
+lead_actor,16940,Jeremy Irons,2,2,50.595238095238095,20.982142857142858,0.5,Die Hard: With a Vengeance; The Lion King,0.8928571428571459,thin (2 results)
+lead_actor,530,Carrie-Anne Moss,2,4,49.50396825396825,43.79960317460317,0.5,The Matrix; Memento,-0.19841269841269593,thin (2 results)
+lead_actor,287,Brad Pitt,2,4,42.50992063492063,23.26388888888889,0.5,Ocean's Eleven; Fight Club,-7.192460317460316,thin (2 results)
+lead_actor,1892,Matt Damon,2,4,39.583333333333336,30.208333333333332,0.0,The Bourne Identity; The Departed,-10.119047619047613,thin (2 results)
+lead_actor,3894,Christian Bale,3,5,38.8723544973545,4.613095238095238,0.6666666666666666,The Dark Knight; Terminator Salvation; The Prestige,-10.830026455026449,moderate
+lead_actor,1158,Al Pacino,3,5,38.31018518518518,15.625,0.3333333333333333,The Godfather; Ocean's Thirteen; Scarface,-11.392195767195766,moderate

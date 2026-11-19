@@ -1,0 +1,41 @@
+{
+  "taken_at": "2026-11-19T13:42:28+00:00",
+  "all_years": {
+    "verdict": "standalone",
+    "score_gap": -12.9,
+    "bundle_picks": [
+      "The Lord of the Rings Collection",
+      "The Avengers Collection",
+      "Harry Potter Collection"
+    ],
+    "standalone_picks": [
+      "Pulp Fiction",
+      "Forrest Gump",
+      "Spirited Away",
+      "Schindler's List",
+      "Inception"
+    ],
+    "strongest_bundle": "The Lord of the Rings Collection",
+    "value_vs_typical_standalone": 1.44,
+    "weakest_film_outranks": 0.938
+  },
+  "2000_onward": {
+    "verdict": "too close to call",
+    "score_gap": -8.9,
+    "bundle_picks": [
+      "The Lord of the Rings Collection",
+      "The Avengers Collection",
+      "Harry Potter Collection"
+    ],
+    "standalone_picks": [
+      "Spirited Away",
+      "Inception",
+      "Interstellar",
+      "Memento",
+      "WALL\u00b7E"
+    ],
+    "strongest_bundle": "The Lord of the Rings Collection",
+    "value_vs_typical_standalone": 1.63,
+    "weakest_film_outranks": 0.958
+  }
+}

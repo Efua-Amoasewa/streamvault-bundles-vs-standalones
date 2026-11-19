@@ -1,0 +1,12 @@
+role,person_id,person_name,separate_results,films,average_score,worst_result,hit_rate,titles,lift_vs_typical,evidence
+director,525,Christopher Nolan,5,7,67.24569640062597,50.46948356807513,1.0,The Dark Knight; The Prestige; Interstellar; Inception,17.245696400625974,moderate
+director,108,Peter Jackson,2,6,66.51017214397496,41.07981220657277,0.5,The Lord of the Rings: The Fellowship of the Ring; The Hobbit: An Unexpected Journey,16.510172143974955,thin (2 results)
+director,7087,Brad Bird,2,2,50.70422535211267,35.44600938967136,0.5,The Incredibles; Mission: Impossible - Ghost Protocol,0.7042253521126725,thin (2 results)
+lead_actor,3223,Robert Downey Jr.,2,7,66.78403755868545,52.34741784037559,1.0,Iron Man; The Avengers,16.784037558685455,thin (2 results)
+lead_actor,1327,Ian McKellen,2,6,66.51017214397496,41.07981220657277,0.5,The Lord of the Rings: The Fellowship of the Ring; The Hobbit: An Unexpected Journey,16.510172143974955,thin (2 results)
+lead_actor,6193,Leonardo DiCaprio,2,2,66.19718309859155,50.46948356807511,1.0,The Departed; Inception,16.19718309859155,thin (2 results)
+lead_actor,3895,Michael Caine,3,3,59.15492957746479,47.652582159624416,0.6666666666666666,Batman Begins; The Prestige; Interstellar,9.154929577464792,moderate
+lead_actor,2524,Tom Hardy,2,2,54.69483568075117,46.713615023474176,0.5,The Dark Knight Rises; Mad Max: Fury Road,4.694835680751169,thin (2 results)
+lead_actor,530,Carrie-Anne Moss,2,3,44.13145539906104,28.873239436619716,0.5,The Matrix Reloaded; Memento,-5.868544600938961,thin (2 results)
+lead_actor,1892,Matt Damon,2,4,42.87949921752738,35.28951486697965,0.5,The Bourne Identity; The Departed,-7.120500782472618,thin (2 results)
+lead_actor,3894,Christian Bale,3,5,39.69744392279604,3.52112676056338,0.6666666666666666,The Dark Knight; Terminator Salvation; The Prestige,-10.30255607720396,moderate

@@ -1,0 +1,3 @@
+scenario,films,runs,median_s,p95_s,worst_s,target_s,target_met
+A: full rerun from saved data (fresh process),112,5,2.1737290000310168,2.2016572800464926,2.2031472000526264,60,True
+B: flatten + diagnose + analyse at 560 films,560,5,3.1297137000365183,24.06980688003823,29.302521100034937,60,True

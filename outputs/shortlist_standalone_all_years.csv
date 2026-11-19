@@ -1,0 +1,6 @@
+tmdb_id,title,year,title_score,vote_average,vote_count,box_office_multiple,reason
+680,Pulp Fiction,1994,93.30357142857143,8.48,31365,26.74109525,"rating 8.5 (top 8%), 31,365 audience ratings (top 7%), earned 26.7x its budget (top 5%); released before 2000"
+13,Forrest Gump,1994,89.73214285714285,8.462,30919,12.316140290909091,"rating 8.5 (top 9%), 30,919 audience ratings (top 8%), earned 12.3x its budget (top 14%); released before 2000"
+129,Spirited Away,2001,82.58928571428572,8.537,19245,14.469741842105263,"rating 8.5 (top 4%), 19,245 audience ratings (top 37%), earned 14.5x its budget (top 11%)"
+424,Schindler's List,1993,81.69642857142857,8.57,18205,14.607525772727273,"rating 8.6 (top 3%), 18,205 audience ratings (top 42%), earned 14.6x its budget (top 10%); released before 2000"
+27205,Inception,2010,76.93452380952381,8.373,40769,5.2439414375,"rating 8.4 (top 15%), 40,769 audience ratings (top 1%), earned 5.2x its budget (top 53%)"

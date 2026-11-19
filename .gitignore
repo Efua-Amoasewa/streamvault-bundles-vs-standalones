@@ -1,0 +1,13 @@
+# Secrets: never commit the API key
+.env
+
+# Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.tmp
+
+# data/raw/ IS committed on purpose: it is the dated snapshot of TMDb replies
+# the results were computed from, so the analysis reruns identically from a
+# clean clone without an API key. Use `src/fetch.py --refresh` for new data.
