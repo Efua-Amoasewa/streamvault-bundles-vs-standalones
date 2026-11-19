@@ -1,6 +1,6 @@
 # Memo to Kwame
 
-**From:** Analyst, licensing review
+**From:** Esther Efua Acquandoh, Analyst
 **Date:** 19 November 2026
 **Subject:** Franchise bundles or standalone hits: where to commit the $14M
 

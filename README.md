@@ -1,5 +1,7 @@
 # StreamVault Licensing Analysis: franchise bundles vs standalone hits
 
+**Author:** Esther Efua Acquandoh
+
 Kwame Boateng (VP Content Acquisition) has $14M to commit at the board's licensing review. This project pulls every candidate title from the public TMDb API, diagnoses the data, and answers his question in two time windows: all years, and 2000 onward.
 
 **Answer in one line:** make standalone hits the default and buy only bundles where every film holds up. The top pick is *The Lord of the Rings*. **The verdict changes between windows:** standalones are clearly stronger across all years, but for 2000 onward the result is too close to call.

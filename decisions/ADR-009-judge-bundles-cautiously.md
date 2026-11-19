@@ -2,7 +2,7 @@
 
 - **Status:** Accepted
 - **Date:** 2026-11-19
-- **Decision owner:** Analyst, StreamVault licensing review
+- **Decision owner:** Esther Efua Acquandoh
 
 ## Context
 
