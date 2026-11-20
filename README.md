@@ -15,7 +15,7 @@ Kwame Boateng (VP Content Acquisition) has $14M to commit at the board's licensi
 | Acquisition: every id accounted for, polite to the API | [src/fetch.py](src/fetch.py) → `data/processed/id_audit.csv` | Apply |
 | Run time, measured against the time budget | [reports/runtime_report.md](reports/runtime_report.md) | Apply / Create |
 | Decision notes: every judgement call, alternatives rerun, what survives next year | [decisions/](decisions/README.md) (13 ADRs plus index) | Evaluate |
-| Client memo: one page, no jargon | [client_memo.md](client_memo.md) ([Word version, one page](client_memo.docx)) | Evaluate / Create |
+| Client memo: one page, no jargon | [client_memo.md](client_memo.md) | Evaluate / Create |
 | One improvement beyond the brief, built | [improvement.md](improvement.md) + [src/health_check.py](src/health_check.py) | Evaluate / Create |
 
 ## Quick start (Windows)
