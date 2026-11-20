@@ -35,7 +35,7 @@ On this year's data the overall grade is **AMBER**. The amber items (unusable ro
 ## What it is worth to Kwame
 
 - **No surprises at the board.** Every change since the last presentation is listed before the meeting, with what to say about it. A pick dropping out or a verdict flipping is the kind of thing Finance would otherwise discover for him.
-- **Adjoa can run it without me.** The judgement I applied this year (which problems matter and when to worry) is written down as rules with thresholds, not kept in my head. She does not need to read 13 decision notes before each quarter. The report tells her which ones are relevant.
+- **Adjoa can run it without me.** The judgement I applied this year (which problems matter and when to worry) is written down as rules with thresholds, not kept in my head. She does not need to reread every decision note before each quarter. The report tells her which ones are relevant.
 - **Protection against a wrong answer that doesn't crash.** It turns "the code ran" into "the code ran *and* the result is fit to present". This matters more as the list grows to 500 titles assembled from the same three kinds of source.
 - **A record over time.** The accepted reference shows what Kwame was told and when, which is useful when the board asks "what did we know last quarter?"
 

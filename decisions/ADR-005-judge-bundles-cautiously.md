@@ -1,4 +1,4 @@
-# ADR-009: Value a bundle at the average of all its films, judged on the whole released series whenever that is weaker than the films offered
+# ADR-005: Value a bundle at the average of all its films, judged on the whole released series whenever that is weaker than the films offered
 
 - **Status:** Accepted
 - **Date:** 2026-11-19
@@ -10,7 +10,7 @@ Studios sell bundles all-or-nothing, so StreamVault pays for the weak entries to
 
 ## Decision
 
-- **Bundle score** = the **mean** title score of its films. Every film is paid for, so every film counts. Title scores are ranks capped at 100, so the mean is not distorted by extremes (ADR-006).
+- **Bundle score** = the **mean** title score of its films. Every film is paid for, so every film counts. Title scores are ranks capped at 100, so the mean is not distorted by extremes (ADR-003).
 - The score is computed twice, on the films offered and on the whole released series, and the bundle is valued at the **lower** of the two.
 - The weakest film is reported next to every bundle.
 - A bundle needs at least 2 films in the window to be ranked.
@@ -27,7 +27,7 @@ Studios sell bundles all-or-nothing, so StreamVault pays for the weak entries to
 ### Alternative B: Median film per bundle
 
 - **How it would work:** The bundle's middle film.
-- **Why it is attractive:** Consistent with ADR-006.
+- **Why it is attractive:** Consistent with ADR-003.
 - **Why rejected:** A median ignores the weakest films entirely in a 3-film bundle, and those weak films are what the "overpaying for weak middle entries" camp is worried about.
 
 ### Alternative C: Value a bundle at its best film

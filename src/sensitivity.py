@@ -21,13 +21,13 @@ ROOT = Path(__file__).resolve().parents[1]
 
 SCENARIOS = {
     "BASELINE (as decided)": {},
-    "ADR-004 alt: franchise = any series membership": {"rule": "tmdb_flag"},
-    "ADR-005 alt: box-office multiple only": {"components": ("money",)},
-    "ADR-005 alt: audience rating only": {"components": ("quality",)},
-    "ADR-005 alt: audience measures only (no box office)": {"components": ("quality", "reach")},
-    "ADR-006 alt: averages instead of medians": {"stat": "mean"},
-    "ADR-009 alt: judge bundles on films offered only": {"bundle_basis": "on_list"},
-    "ADR-010 alt: standalone picks may belong to a series": {"one_offs_only": False},
+    "ADR-001 alt: franchise = any series membership": {"rule": "tmdb_flag"},
+    "ADR-002 alt: box-office multiple only": {"components": ("money",)},
+    "ADR-002 alt: audience rating only": {"components": ("quality",)},
+    "ADR-002 alt: audience measures only (no box office)": {"components": ("quality", "reach")},
+    "ADR-003 alt: averages instead of medians": {"stat": "mean"},
+    "ADR-005 alt: judge bundles on films offered only": {"bundle_basis": "on_list"},
+    "ADR-006 alt: standalone picks may belong to a series": {"one_offs_only": False},
 }
 
 

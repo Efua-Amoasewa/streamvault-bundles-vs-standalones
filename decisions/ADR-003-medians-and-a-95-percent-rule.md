@@ -1,4 +1,4 @@
-# ADR-006: Compare groups with medians, show a 95% range from resampling, and call a winner only when 95% of resamples agree
+# ADR-003: Compare groups with medians, show a 95% range from resampling, and call a winner only when 95% of resamples agree
 
 - **Status:** Accepted
 - **Date:** 2026-11-19

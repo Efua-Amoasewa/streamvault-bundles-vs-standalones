@@ -1,4 +1,4 @@
-# ADR-008: Define the 2000-onward window by release year, rank films only against their own window, and do not adjust for inflation
+# ADR-004: Define the 2000-onward window by release year, rank films only against their own window, and do not adjust for inflation
 
 - **Status:** Accepted
 - **Date:** 2026-11-19
@@ -21,7 +21,7 @@ Yaw in Finance distrusts anything released before 2000: inflation, currency repo
 
 - **How it would work:** Multiply budget and revenue by a consumer price index factor.
 - **Why it is attractive:** It is Finance's language, and it makes dollar amounts comparable.
-- **Why rejected:** It does not change any ratio, so the analysis is unaffected. It would also require an external price series that is not part of the data provided and that I could not verify from TMDb. It matters only if the analysis used dollar amounts, which it deliberately does not (ADR-005, Alternative D).
+- **Why rejected:** It does not change any ratio, so the analysis is unaffected. It would also require an external price series that is not part of the data provided and that I could not verify from TMDb. It matters only if the analysis used dollar amounts, which it deliberately does not (ADR-002, Alternative D).
 
 ### Alternative B: Score modern films against the full list
 
@@ -37,7 +37,7 @@ Yaw in Finance distrusts anything released before 2000: inflation, currency repo
 
 ## Consequences
 
-- **What this buys:** The modern window answers Yaw on his own terms. The analysis states plainly that the verdict changes between windows (ADR-006).
+- **What this buys:** The modern window answers Yaw on his own terms. The analysis states plainly that the verdict changes between windows (ADR-003).
 - **What this costs:** A film's score differs between windows. Spirited Away is 82.6 overall and 84.7 among modern films. This is intended, but it needs explaining.
 - **What it costs the client if I am wrong:** If Finance also distrusts *re-release income* inside post-2000 totals, a few modern figures are still affected. This is noted under Could not verify.
 - **What would make me revisit this:** Finance naming a different line, or asking for dollar figures.

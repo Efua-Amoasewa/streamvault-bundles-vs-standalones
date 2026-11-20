@@ -1,4 +1,4 @@
-# ADR-010: Pick the shortlist from the all-years ranking, require standalones to be true one-offs that are strong on audience measures alone, and name modern substitutes
+# ADR-006: Pick the shortlist from the all-years ranking, require standalones to be true one-offs that are strong on audience measures alone, and name modern substitutes
 
 - **Status:** Accepted
 - **Date:** 2026-11-19
@@ -6,11 +6,11 @@
 
 ## Context
 
-Kwame wants three franchise targets and five standalones, each with its reason. The two windows produce different standalone lists: four of the all-years top five were released before 2000. Some high-scoring "standalones" have sequels elsewhere (*The Lion King*, *The Silence of the Lambs*), so a studio might not sell them alone (ADR-004). Box-office figures for old films are what Finance will challenge.
+Kwame wants three franchise targets and five standalones, each with its reason. The two windows produce different standalone lists: four of the all-years top five were released before 2000. Some high-scoring "standalones" have sequels elsewhere (*The Lion King*, *The Silence of the Lambs*), so a studio might not sell them alone (ADR-001). Box-office figures for old films are what Finance will challenge.
 
 ## Decision
 
-- **Franchise picks:** the top 3 by bundle score (ADR-009). They are the same three in both windows: Lord of the Rings, The Avengers, Harry Potter.
+- **Franchise picks:** the top 3 by bundle score (ADR-005). They are the same three in both windows: Lord of the Rings, The Avengers, Harry Potter.
 - **Standalone picks:** the top 5 by title score among films that (a) belong to no series at all and (b) score at least 50 on audience measures alone (rating and reach). Ranked on all years, because old films are just as licensable. The 2000-onward picks are listed as named substitutes if Finance strikes pre-2000 titles.
 - Each pick carries a generated reason that states its ranks.
 

@@ -14,7 +14,7 @@ Kwame Boateng (VP Content Acquisition) has $14M to commit at the board's licensi
 | Working analysis: runs top to bottom, both windows | [notebooks/analysis.ipynb](notebooks/analysis.ipynb) (and [src/run_all.py](src/run_all.py)) | Apply / Create |
 | Acquisition: every id accounted for, polite to the API | [src/fetch.py](src/fetch.py) → `data/processed/id_audit.csv` | Apply |
 | Run time, measured against the time budget | [reports/runtime_report.md](reports/runtime_report.md) | Apply / Create |
-| Decision notes: every judgement call, alternatives rerun, what survives next year | [decisions/](decisions/README.md) (13 ADRs plus index) | Evaluate |
+| Decision notes: the key judgement calls, alternatives rerun, what survives next year | [decisions/](decisions/README.md) (6 ADRs plus index) | Evaluate |
 | Client memo: one page, no jargon | [client_memo.md](client_memo.md) | Evaluate / Create |
 | One improvement beyond the brief, built | [improvement.md](improvement.md) + [src/health_check.py](src/health_check.py) | Evaluate / Create |
 
@@ -71,10 +71,10 @@ src/metrics.py      shared definitions (what counts as franchise, money floor, w
 
 **Key design points** (each defended in [decisions/](decisions/README.md)):
 
-- **Every row of the input gets exactly one fate.** The code stops if the fates don't add up to the number of input rows (ADR-001).
-- **At most 10 requests a second,** with polite retries. Every reply is saved, so a rerun makes no network calls (ADR-002).
+- **Every row of the input gets exactly one fate.** The code stops if the fates don't add up to the number of input rows.
+- **At most 10 requests a second,** with polite retries. Every reply is saved, so a rerun makes no network calls.
 - **No loops over rows in the analysis.** It uses pandas grouping, NumPy matrix resampling, and binary-search percentiles (`searchsorted`). The resampling is 36× faster than a loop, measured.
-- **Each title is scored 0–100** by averaging its percentile ranks on audience rating, audience reach and box-office multiple (ADR-005). Groups are compared with medians and a 95% resampling range, and a winner is named only at 95% agreement (ADR-006).
+- **Each title is scored 0–100** by averaging its percentile ranks on audience rating, audience reach and box-office multiple (ADR-002). Groups are compared with medians and a 95% resampling range, and a winner is named only at 95% agreement (ADR-003).
 
 ## Results at a glance
 
@@ -113,12 +113,12 @@ README.md            this file
 client_memo.md       one-page memo to Kwame
 data_findings.md     data diagnosis
 improvement.md       the improvement beyond the brief
-decisions/           13 decision records + index
+decisions/           6 decision records + index
 reports/             runtime report, health check report, accepted reference run
 notebooks/           analysis.ipynb (executed, with outputs)
 src/                 all code
 data/id_list.csv     the candidate list as given
-data/raw/            saved TMDb replies (dated snapshot, committed on purpose: ADR-003)
+data/raw/            saved TMDb replies (dated snapshot, committed on purpose so results reproduce)
 data/processed/      flat tables built from data/raw
 outputs/             every result table
 requirements.txt     libraries (minimum versions); requirements-lock.txt has the exact tested versions

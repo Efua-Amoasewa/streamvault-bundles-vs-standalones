@@ -1,4 +1,4 @@
-# ADR-004: Count a film as "franchise" only when two or more films of its series are on the candidate list
+# ADR-001: Count a film as "franchise" only when two or more films of its series are on the candidate list
 
 - **Status:** Accepted
 - **Date:** 2026-11-19
@@ -10,7 +10,7 @@ The whole question is franchise bundles versus standalone hits, so the boundary 
 
 ## Decision
 
-A film is "franchise" when at least two films of its series are on the list, because only then is it actually offered as a bundle. Everything else is "standalone". Shortlisted standalones must also have no series at all (ADR-010), so the nine edge cases cannot slip into the standalone picks.
+A film is "franchise" when at least two films of its series are on the list, because only then is it actually offered as a bundle. Everything else is "standalone". Shortlisted standalones must also have no series at all (ADR-006), so the nine edge cases cannot slip into the standalone picks.
 
 ## Alternatives considered
 

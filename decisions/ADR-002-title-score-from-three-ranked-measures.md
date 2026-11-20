@@ -1,4 +1,4 @@
-# ADR-005: Judge each title by one score that averages its rank on audience rating, audience reach and box-office return
+# ADR-002: Judge each title by one score that averages its rank on audience rating, audience reach and box-office return
 
 - **Status:** Accepted
 - **Date:** 2026-11-19
@@ -10,7 +10,7 @@ The brief never says what "worth licensing" means. StreamVault earns from people
 
 ## Decision
 
-Each film gets three percentile ranks from 0 to 100, measured against the other films in the same time window, for quality (rating), reach (number of ratings) and money (box-office multiple). Its **title score** is the average of the three. If a film's money figures are not credible (ADR-007), its score uses the other two.
+Each film gets three percentile ranks from 0 to 100, measured against the other films in the same time window, for quality (rating), reach (number of ratings) and money (box-office multiple). Its **title score** is the average of the three. If a film's money figures are not credible (budget or revenue under $10,000, treated as not reported), its score uses the other two.
 
 ## Alternatives considered
 
@@ -32,14 +32,14 @@ Each film gets three percentile ranks from 0 to 100, measured against the other 
 
 - **How it would work:** Average the quality and reach ranks only.
 - **Why it is attractive:** It answers Finance's objection completely.
-- **Why rejected:** Narrowly. It discards the only measure tied to money, which the board will ask about. I kept it as the robustness test instead: every standalone pick must be top-half on these two measures (ADR-010).
+- **Why rejected:** Narrowly. It discards the only measure tied to money, which the board will ask about. I kept it as the robustness test instead: every standalone pick must be top-half on these two measures (ADR-006).
 - **What the recommendation looks like under it:** Standalone, decisively, in **both** windows (−20.8 all years; −23.2 from 2000 onward, range −37.7 to −8.5). This shows that the "too close to call" verdict for 2000 onward comes entirely from box office.
 
 ### Alternative D: Profit or revenue in dollars
 
 - **How it would work:** Rank on revenue minus budget, or on revenue alone.
 - **Why it is attractive:** Big numbers that the board recognises.
-- **Why rejected:** It favours the most expensive recent films and mostly measures size, not value per licensing dollar. It also needs inflation adjustment across 1966–2019, using external price data that I could not verify (ADR-008).
+- **Why rejected:** It favours the most expensive recent films and mostly measures size, not value per licensing dollar. It also needs inflation adjustment across 1966–2019, using external price data that I could not verify (ADR-004).
 
 ## Consequences
 
