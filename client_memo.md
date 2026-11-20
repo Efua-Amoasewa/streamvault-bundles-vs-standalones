@@ -6,7 +6,7 @@
 
 ## What I found
 
-112 of the 127 rows on your list could be assessed. Seven were repeats, five point to films that do not exist, and three were blank. Each film is scored out of 100 against the rest of the list on how highly audiences rate it, how many people rated it, and how many times over it earned back its budget.
+112 of 127 rows were usable (7 repeats, 5 non-existent films, 3 blanks). Each film scores 0–100 on audience rating, number of ratings and budget earned back.
 
 | | All years | 2000 onward |
 |---|---|---|
@@ -14,35 +14,35 @@
 | Typical film in a bundle | 47 | 48 |
 | **Verdict** | **Standalones are stronger** | **Too close to call** |
 
-**⚠ The answer changes for films from 2000 onward.** Standalones still lead, but there are only 12 of them, so the lead could be chance. On audience opinion alone, standalones win clearly in both periods. Only cinema takings narrow the gap.
+**⚠ The answer changes from 2000 onward:** only 12 standalones, so their lead could be chance. On audience opinion they win clearly in both periods; box office narrows it.
 
-Bundles lose on the later films. A series' first film typically scores 62, the second 46, and later ones 35–42, all below a typical standalone. Ten of the 23 bundles also lack their newest, weakest films. If a studio insists on the whole series, the bundles' edge in cinema takings disappears.
+Bundles fade: first films score 62, second 46, later 35–42, all below a typical standalone. Ten of 23 bundles omit their newest, weakest films; sold whole, they lose their box-office edge.
 
 ## What I built
 
 | What you asked for | Status | Evidence |
 |---|---|---|
-| Recommendation | Done | Bundles never come out ahead under any of seven alternative methods |
-| Shortlist: 3 bundles, 5 standalones | Done | The same three bundles lead in both periods |
-| Talent read | Done; evidence thin | Each series counted once per person |
-| Deal note; what I could not verify | Done | Below; detail in the data findings report |
+| Recommendation | Done | Holds under 7 alternative methods |
+| 3 bundles, 5 standalones | Done | Same bundles lead in both periods |
+| Talent read | Done, thin | Each series counted once per person |
+| Deal note; limits | Done | Below; detail in data findings |
 
 ## What I recommend
 
-**Make standalone hits the default, and buy a bundle only where every film holds up.**
+**Default to standalone hits; buy a bundle only where every film holds up.**
 
-- **Bundles:** (1) *The Lord of the Rings*: its weakest film beats 94% of the list. (2) *The Avengers*: complete, and its weakest (*Age of Ultron*) is close to a typical standalone. (3) *Harry Potter*: all eight on offer, and the weakest is about average for a film in a bundle.
-- **Standalones:** *Pulp Fiction* and *Forrest Gump* (top 10% on both rating and audience size), *Spirited Away* (top 4% on rating; earned 14 times its budget), *Schindler's List* (top 3% on rating), and *Inception* (top 1% on audience size). If Finance strikes pre-2000 titles, use *Interstellar*, *Memento* and *WALL·E* instead.
-- **Talent:** Christopher Nolan is the one reliable signal: five separate results, all above typical. Most actors' records rest on two films, so don't pay a premium for a name.
-- **The bundle you passed on:** this list's only five-film bundles, *Mission: Impossible* and *Pirates of the Caribbean*, rank 21st and 14th of 23.
+- **Bundles:** *The Lord of the Rings* (weakest beats 94% of list), *The Avengers* (complete; weakest, *Age of Ultron*, ≈ typical standalone), *Harry Potter* (all 8; weakest bundle-average).
+- **Standalones:** *Pulp Fiction*, *Forrest Gump* (top 10% rating and audience), *Spirited Away* (top 4% rating; 14× budget), *Schindler's List* (top 3% rating), *Inception* (top 1% audience). Post-2000: *Interstellar*, *Memento*, *WALL·E*.
+- **Talent:** only Christopher Nolan is reliable (5 results, all above typical); pay no actor premium.
+- **Skip:** 5-film *Mission: Impossible* (21st of 23), *Pirates of the Caribbean* (14th).
 
-**Deal note: *The Lord of the Rings*.** It is the strongest bundle under every method I tested. Pay up to about 1.4 times per film what you would pay for a strong standalone here, so the three films are worth roughly four such standalones. Do not exceed about 1.2 times the per-film price of *The Avengers*, the next best. The number that drove this: **its weakest film still outranks 94% of the titles on your list**. It is the only bundle where you are not paying for a weak entry.
+**Deal note, *The Lord of the Rings*:** best under every method. Pay up to 1.4× a strong standalone per film (three ≈ four), at most 1.2× *The Avengers*. Key: **its weakest film outranks 94% of your list.**
 
 ## What I could not stand behind
 
-- **Viewing and prices:** I had no viewing figures or asking prices. The scores stand in for viewing, and the deal note is relative, not in dollars.
-- **Bundle contents:** if studios add the missing later films, ten bundles weaken. None of my three picks is affected.
-- **Risk of a dud:** every listed film earned back its budget. I can rank hits but cannot measure the chance of a flop, which is the risk behind the earlier trilogy.
-- **Old figures:** pre-2000 takings include re-releases, so Finance's doubt is partly fair. The 2000-onward view answers it.
-- **Eight unreadable rows:** up to eight candidates go unassessed until the list's owners correct them.
-- **Snapshot:** the figures come from a public, user-edited film database, as of 19 November 2026.
+- **No viewing or price data:** scores stand in for viewing; the deal note is relative.
+- **Bundle contents:** adding missing later films weakens ten bundles, none of my picks.
+- **No flops listed,** so the risk of a dud (the earlier trilogy's problem) is unmeasurable.
+- **Old figures** include re-releases (Finance has a point); the 2000-onward view answers it.
+- **Eight unreadable rows** stay unassessed until the list is corrected.
+- **Snapshot** of a public, user-edited film database, 19 November 2026.
